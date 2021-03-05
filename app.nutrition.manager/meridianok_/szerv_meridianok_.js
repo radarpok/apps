@@ -1,1 +1,0 @@
-const szerv_meridianok_ = {}

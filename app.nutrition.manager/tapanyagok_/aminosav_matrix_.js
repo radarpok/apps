@@ -1,1 +1,0 @@
-const aminosav_matrix_ = {}

@@ -1,1 +1,0 @@
-const vitamin_matrix_ = {}

@@ -1,1 +1,0 @@
-const asvanyianyag_matrix_ = {}
